@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="15.0dip"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/iv_add"
+        android:layout_width="45.0dip"
+        android:layout_height="45.0dip"
+        android:src="@drawable/ic_add"
+        app:tint="#FFE0E0E0" />
+</FrameLayout>
